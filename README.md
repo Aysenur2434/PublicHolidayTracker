@@ -1,4 +1,5 @@
 PublicHolidayTracker
+
 📌 Proje Hakkında
 
 PublicHolidayTracker C# ile geliştirilmiş asenkron konsol uygulaması. System.Net.Http.HttpClient aracılığıyla harici bir API'ye (nager.at) bağlanarak 3 yıllık (2023-2025) Türkiye resmi tatil verilerini JSON formatında çekip RAM'de (bellekte) saklar. Uygulama, kullanıcıya LINQ tabanlı filtreleme (yıla, isme ve tarihe göre arama) işlevleri sunar.
